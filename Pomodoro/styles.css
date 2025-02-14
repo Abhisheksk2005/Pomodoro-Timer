@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+.timer {
+  margin-top: 50px;
+  font-size: 36px;
+}
+.controls {
+  margin-top: 20px;
+}
+.session-counter {
+  margin-top: 20px;
+}
